@@ -5,6 +5,7 @@ Platform: Arduino MEGA
 
 Used modules: Parker 3DM-CV7 Inertial measurement unit
               u-blox NEO-7M GPS module
+              
 Wiring:
 
 Libraries:
