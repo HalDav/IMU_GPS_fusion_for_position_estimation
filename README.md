@@ -4,6 +4,7 @@ This project is designed to read data from the Parker 3DM-CV7 IMU and u-blox NEO
 Platform: Arduino MEGA
 
 Used modules: Parker 3DM-CV7 Inertial measurement unit
+              
               u-blox NEO-7M GPS module
               
 Wiring:
